@@ -19,6 +19,6 @@
   "homepage": "https://github.com/ahicks1/palaceClient#readme",
   "dependencies": {
     "jsdoc": "^3.6.2",
-    "npm": "^6.9.2"
+    "npm": "^6.13.4"
   }
 }
